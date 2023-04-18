@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 - 🐍 I'm coding discord bots in **Python**
-- ✨ [Invite "Shake"](https://discord.com/api/oauth2/authorize?client_id=778938275397632021&scope=bot&applications.Commands)
+- ✨ [Invite our bot](https://discord.com/api/oauth2/authorize?client_id=778938275397632021&scope=bot&applications.Commands)
 
 
 ### 👨‍💻 Programming languages
