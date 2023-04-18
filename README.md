@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Kidus 👋</h1>
-<p align="center">_And this is my start as a developer!_</p>
-
 <p align="center">
    <a href="https://discord.com/users/522126315780964393">
       <img src="https://lanyard.cnrad.dev/api/522126315780964393?animated=true" />
