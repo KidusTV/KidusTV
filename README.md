@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning **Javascript**
-- 🐍 I've coded/I'm coding discord bots in **Python**
+- 🐍 I'm coding discord bots in **Python**
 - ✨ [Invite "Shake"](https://discord.com/api/oauth2/authorize?client_id=778938275397632021&scope=bot&applications.Commands)
 
 
