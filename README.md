@@ -17,14 +17,14 @@
 <h1 align="center"></h1>
 
 <details>
-  <summary>### 🧮 about</summary>
+  <summary><h1 align="center">🧮 about</h1></summary>
 - 🌱 I’m currently learning **Javascript**
 - 🐍 I'm coding discord bots in **Python**
 - ✨ [Invite our bot](https://discord.com/api/oauth2/authorize?client_id=778938275397632021&scope=bot&applications.Commands)
 </details>
 
 <details>
-   <summary>### 👨‍💻 Programming languages</summary>
+   <summary><h1 align="center">👨‍💻 Programming languages</h1></summary>
    <p>
       <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-   <summary>### 💻 Software, Databases, cloud hosting and tools</summary>
+   <summary><h1 align="center">💻 Software, Databases, cloud hosting and tools</h1></summary>
    <p>
        <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
        <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
