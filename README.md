@@ -4,7 +4,12 @@
       <img src="https://lanyard.cnrad.dev/api/522126315780964393?animated=true" />
    </a>
 </p>
-  
+<h1 align="center">Hi, I'm Kidus 👋</h1>
+<div align="center">
+  <a href="https://github.com/KidusTV/">
+  <img  src="https://github.com/KidusTV/KidusTV/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 - 🌱 I’m currently learning **Javascript**
