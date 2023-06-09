@@ -17,7 +17,7 @@
 <h1 align="center"></h1>
 
 <details>
-  <summary><h1 align="center">🧮 about</h1></summary>
+  <summary><h1 align="center">🧮 About</h1></summary>
 - 🌱 I’m currently learning **Javascript**
 - 🐍 I'm coding discord bots in **Python**
 - ✨ [Invite our bot](https://discord.com/api/oauth2/authorize?client_id=778938275397632021&scope=bot&applications.Commands)
