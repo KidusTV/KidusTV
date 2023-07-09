@@ -37,3 +37,11 @@
     <a href="https://www.adobe.com/creativecloud/plans.html"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p>
+
+### Quote of the Day
+<p align="left">
+<p>
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"
+        alt="Quote" />
+    </p>
+</p>
